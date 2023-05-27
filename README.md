@@ -20,6 +20,10 @@
 
 ---
 
+<div id="header" align="center">
+  <img src="https://i.postimg.cc/rpqnpJM3/For-Github1.png"/>
+</div>
+
 ### Welcome to The Corner Demo Github.
 
 We currently are using github as a way to share the files before realising the game on steam or epic games. 
@@ -28,8 +32,9 @@ If you have any questions please message me @Lifeport-z#0001 on discord.
 Scroll to the bottom of the page to get download link.
 
 ---
+
 <div id="header" align="center">
-  <img src="https://i.postimg.cc/rpqnpJM3/For-Github1.png"/>
+  <img src="https://i.postimg.cc/j50z5qH5/For-Github2.png"/>
 </div>
 
 ### My portfolio
@@ -38,6 +43,10 @@ Here is my portfolio of the achievements and other things I have done:
 https://lifeport-zportfolio.serbot.repl.co
 
 ---
+
+<div id="header" align="center">
+  <img src="https://i.postimg.cc/Z5W3xvjn/For-Github3.png"/>
+</div>
 
 ### The Corner Demo
 
