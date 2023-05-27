@@ -25,9 +25,18 @@
 We currently are using github as a way to share the files before realising the game on steam or epic games. 
 If you have any questions please message me @Lifeport-z#0001 on discord.
 
+Scroll to the bottom of the page to get download link.
+
 ---
 
 ### My portfolio
 
 Here is my portfolio of the achievements and other things I have done:
 https://lifeport-zportfolio.serbot.repl.co
+
+---
+
+### The Corner Demo
+
+Get The Corner Demo here:
+https://drive.google.com/file/d/1dLOTCQwQRHE3EgzrqMYzVvbyWgtu8-Xx/view?usp=sharing
