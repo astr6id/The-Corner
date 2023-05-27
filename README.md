@@ -20,14 +20,14 @@
 
 ---
 
-#Welcome to The Corner Demo Github.
+### Welcome to The Corner Demo Github.
 
 We currently are using github as a way to share the files before realising the game on steam or epic games. 
 If you have any questions please message me @Lifeport-z#0001 on discord.
 
 ---
 
-#My portfolio
+### My portfolio
 
 Here is my portfolio of the achievements and other things I have done:
 https://lifeport-zportfolio.serbot.repl.co
